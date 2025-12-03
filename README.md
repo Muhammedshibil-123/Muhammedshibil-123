@@ -37,42 +37,12 @@ Full-stack developer focused on **React.js** frontend and **Django (Python)** ba
   <img alt="REST API" src="https://img.shields.io/badge/REST_API-00B4D8?style=flat-square" />
 </p>
 
----
 
-## 🚀 Selected Projects (highlights)
-### **Bassify** — React E-commerce (Audio)  
-- React front-end with product listing, cart & checkout flows.  
-- Admin panel with secure login, product management and JSON Server for demo backend.  
-- Responsive UI and efficient state management.  
-**Live:** _add-live-url-here_ • **Repo:** _add-repo-url-here_
-
-### **Student Learning Management System (SLMS)** — Django  
-- Student & Mentor roles, custom user model, mentor approval workflow (accounts pending until mentor approves) and automated emails.  
-- Bulk semester updates using `modelformset_factory`.  
-**Live:** _add-live-url-here_ • **Repo:** _add-repo-url-here_
-
-### **Hospital Management System** — Django  
-- Modules for doctors, departments, appointments, patient feedback and admin dashboard.  
-- Deployed on PythonAnywhere.  
-**Live:** _add-live-url-here_ • **Repo:** _add-repo-url-here_
-
----
-
-## 💼 Experience
-**Python Full-Stack Developer (Intern)** — Bridgeon Solutions LLP  
-Worked on full-stack features, REST API integration, deployments, and app maintenance.
-
----
-
-## 🎓 Education
-**Bachelor of Commerce** — Fathima Arts and Science College (Calicut University)
-
----
 
 ## 🌐 Links & Contact
 - ✉️ **Email:** muhammedshibil.dev@gmail.com  
-- 👤 **GitHub:** https://github.com/muhammedshibil  ← _replace if different_  
-- 🔗 **LinkedIn:** _add-your-linkedin-url-here_
+- 👤 **GitHub:** (https://github.com/Muhammedshibil-123/)  
+- 🔗 **LinkedIn:** (https://www.linkedin.com/in/mhdshibil/)
 
 ---
 
@@ -86,12 +56,4 @@ Worked on full-stack features, REST API integration, deployments, and app mainte
 
 ---
 
-## ✨ Fancy / small animation (optional)
-If you want a subtle animated banner, uncomment one of these lines in the README:
 
-
-<!-- Animated gradient banner -->
-<img src="https://raw.githubusercontent.com/Anuraghazra/Anuraghazra/main/banner.gif" alt="banner" />
-
-<!-- Animated waveform / coding gif -->
-<!-- <img src="https://media.giphy.com/media/3o7TKtdvE3b7t1k1Ck/giphy.gif" width="700" alt="coding gif" /> -->
