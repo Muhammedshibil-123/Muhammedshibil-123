@@ -23,6 +23,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=FFFFFF&width=600&lines=Full-Stack+Developer+(React+%2B+Django);Building+responsive+web+applications;APIs+%26+Deployments" alt="typing" />
 </p>
 
+<hr>
 
 
 <h3>👨‍💻 About</h3>
@@ -39,18 +40,6 @@
   <img alt="REST API" src="https://img.shields.io/badge/REST_API-00B4D8?style=flat-square" />
 </p>
 
-<h3>🚀 Selected Projects (highlights)</h3>
-<ul>
-  <li><strong>Bassify</strong> — React E-commerce (Audio). React front-end, cart & checkout, admin panel (JSON Server demo). <em>Live: add-live-url • Repo: add-repo-url</em></li>
-  <li><strong>Student Learning Management System (SLMS)</strong> — Django. Mentor approval workflow, custom user model, bulk semester update. <em>Live: add-live-url • Repo: add-repo-url</em></li>
-  <li><strong>Hospital Management System</strong> — Django. Appointments, doctor feedback, admin dashboard. Deployed on PythonAnywhere. <em>Live: add-live-url • Repo: add-repo-url</em></li>
-</ul>
-
-<h3>💼 Experience</h3>
-<p><strong>Python Full-Stack Developer (Intern)</strong> — Bridgeon Solutions LLP — worked on full-stack features, REST API integration, deployments, and maintenance.</p>
-
-<h3>🎓 Education</h3>
-<p><strong>Bachelor of Commerce</strong> — Fathima Arts and Science College (Calicut University)</p>
 
 <h3>🌐 Links & Contact</h3>
 <ul>
