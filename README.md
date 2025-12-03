@@ -45,7 +45,7 @@
 <ul>
   <li>✉️ <a href="mailto:muhammedshibil.dev@gmail.com">muhammedshibil.dev@gmail.com</a></li>
   <li>👤 GitHub: <a href="https://github.com/muhammedshibil">github.com/muhammedshibil</a></li>
-  <li>🔗 LinkedIn: <em>add-your-linkedin-url-here</em></li>
+  <li>🔗 LinkedIn: <em>https://www.linkedin.com/in/mhdshibil/</em></li>
 </ul>
 
 <hr />
