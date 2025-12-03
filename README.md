@@ -94,4 +94,4 @@ If you want a subtle animated banner, uncomment one of these lines in the README
 <img src="https://raw.githubusercontent.com/Anuraghazra/Anuraghazra/main/banner.gif" alt="banner" />
 
 <!-- Animated waveform / coding gif -->
-<img src="https://media.giphy.com/media/3o7TKtdvE3b7t1k1Ck/giphy.gif" width="700" alt="coding gif" />
+<!-- <img src="https://media.giphy.com/media/3o7TKtdvE3b7t1k1Ck/giphy.gif" width="700" alt="coding gif" /> -->
