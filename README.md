@@ -1,50 +1,160 @@
+<!-- HEADER SECTION: Typing Animation -->
+
+<div align="center">
+<img src="https://www.google.com/search?q=https://readme-typing-svg.demolab.com%3Ffont%3DFira%2BCode%26weight%3D600%26size%3D28%26pause%3D1000%26color%3D2E9BF5%26center%3Dtrue%26vCenter%3Dtrue%26width%3D435%26lines%3DHello,%2BI%27m%2BMuhammed%2BShibil%3BFull%2BStack%2BDeveloper%3B(Python%2B%257C%2BDjango%2B%257C%2BReact)%3BBuilding%2BScalable%2BSolutions" alt="Typing SVG" />
+
+<p align="center">
+<b> 📍 Kerala, India </b>
+</p>
+</div>
+
+<!-- INTRO & PYTHON BIO DASHBOARD -->
+
+<table border="0" width="100%">
+<tr>
+<td width="55%" valign="top">
+<h2>👨‍💻 About Me</h2>
+<p>
+I am a <b>Full Stack Developer</b> passionate about building responsive, user-friendly, and scalable web applications. I specialize in the <b>React.js</b> ecosystem for front-end and <b>Python/Django</b> for robust back-end architecture.
+</p>
+<p>
+Currently, I am working as a <b>Python Full-Stack Developer Intern</b> at <b>Bridgeon Solutions LLP</b>, bridging the gap between complex requirements and clean code.
+</p>
+<p>
+🌱 I’m currently learning <b>Advanced REST API patterns & AWS Deployment</b>.
+</p>
+</td>
+<td width="45%" valign="top">
+
+class MuhammedShibil:
+    def __init__(self):
+        self.role = "Full Stack Developer"
+        self.language = ["JavaScript (ES6+)", "Python"]
+        self.frameworks = ["Django", "React.js", "Redux"]
+        self.database = ["PostgreSQL", "SQLite"]
+        self.location = "Kerala, India"
+        
+    def current_status(self):
+        return "Building scalable apps & Learning"
+
+
+</td>
+
+
+</tr>
+</table>
+
+<!-- TECH STACK SECTION -->
+
+<h2 align="center">🛠️ Technical Arsenal</h2>
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&width=435&lines=Hi+there!+I'm+Sharath+Sree;MERN+Stack+Developer;Take+a+look+at+my+Linkedin;Connect+and+share+your+knowledg" alt="Sharath Header" />
+Frontend
 
-<br/><br/>
+Backend & Database
 
-<p>
-  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
-  <img src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white" />
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" />
-  <br/>
-  <img src="https://img.shields.io/badge/node.js-6DA55F.svg?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" />
-  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
-</p>
+Tools & Deployment
 
-<br/>
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+
+<!-- FEATURED PROJECTS SECTION -->
+
+<h2>🚀 Featured Projects</h2>
+
+Project
+
+Description & Key Features
+
+Tech Stack
+
+Student LMS (SLMS)
+
+A comprehensive platform for managing students, mentors, and academic progress. 
+
+
+
+✅ Features: Mentor Approval Workflow, Bulk Semester Updates, Custom User Models.
+
+
+
+Hospital Mgmt System
+
+Operations platform for doctors, departments, and appointments. 
+
+
+
+✅ Features: Doctor Feedback System, Admin Dashboard, Patient Interactions.
+
+
+
+Bassify (E-commerce)
+
+React-based e-commerce app for audio devices. 
+
+
+
+✅ Features: Product Listing, Cart/Checkout, Admin Panel, User Blocking, JSON Server Backend.
+
+
+
+<!-- STATS SECTION -->
+
+<div align="center">
+<!-- NOTE: Replace YOUR_GITHUB_USERNAME with your actual GitHub username below -->
+<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3DYOUR_GITHUB_USERNAME%26show_icons%3Dtrue%26theme%3Dtokyonight%26hide_border%3Dtrue%26bg_color%3D0d1117" height="160" alt="stats graph" />
+<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3DYOUR_GITHUB_USERNAME%26layout%3Dcompact%26theme%3Dtokyonight%26hide_border%3Dtrue%26bg_color%3D0d1117" height="160" alt="languages graph" />
+</div>
+
+<!-- FOOTER / CONNECT -->
+
+<h3 align="center">📫 Let's Connect</h3>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sharathsree0&theme=tokyonight&hide_border=true" height="150" alt="Streak Stats" />
+<a href="mailto:muhammedshibil.dev@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<!-- NOTE: Replace YOUR_LINKEDIN_USERNAME with your actual LinkedIn ID below -->
+<a href="https://www.google.com/search?q=https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<!-- NOTE: Replace YOUR_GITHUB_USERNAME with your actual GitHub username below -->
+<a href="https://www.google.com/search?q=https://github.com/YOUR_GITHUB_USERNAME" target="_blank">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/GitHub-100000%3Fstyle%3Dfor-the-badge%26logo%3Dgithub%26logoColor%3Dwhite" />
+</a>
 </p>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/sharath-s-2634b5296/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://instagram.com/_sharath_sree_" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <a href="https://leetcode.com/sharathsree" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
-  </a>
-  <a href="mailto:sharathsree916@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
+<!-- 3D ACTIVITY GRAPH -->
 
-<br/>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sharathsree0/sharathsree0/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sharathsree0/sharathsree0/output/github-contribution-grid-snake.svg">
-  <img alt="snake animation" src="https://raw.githubusercontent.com/sharathsree0/sharathsree0/output/github-contribution-grid-snake.svg">
-</picture>
-
+<div align="center">
+<!-- NOTE: Replace YOUR_GITHUB_USERNAME with your actual GitHub username below -->
+<img src="https://www.google.com/search?q=https://github-profile-trophy.vercel.app/%3Fusername%3DYOUR_GITHUB_USERNAME%26theme%3Dgruvbox%26no-frame%3Dtrue%26no-bg%3Dtrue%26margin-w%3D4" />
 </div>
