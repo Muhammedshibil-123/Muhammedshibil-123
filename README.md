@@ -97,6 +97,20 @@ Kerala, India • Building responsive, user-focused web apps
 </a> -->
 
 
+<!-- EXTRA SECTIONS -->
+
+<hr>
+
+<div align="center">
+<h3>📍 GitHub Profile Views</h3>
+
+![Profile views](https://komarev.com/ghpvc/?username=muhammedshibil&label=Visitors&color=1e90ff&style=for-the-badge)
+
+</div>
+
+
+
+
 
 
 
