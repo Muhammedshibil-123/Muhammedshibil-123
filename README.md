@@ -12,7 +12,7 @@
 
 <!-- Top badges (Open-for-work removed; replaced with Collaborate) -->
 <p>
-  <img src="https://img.shields.io/badge/STATUS-—-2b2f33?style=for-the-badge" alt="status" />
+
   <a href="mailto:muhammedshibil.dev@gmail.com"><img src="https://img.shields.io/badge/COLLABORATE-Email-blueviolet?style=for-the-badge" alt="collaborate" /></a>
   <img src="https://img.shields.io/badge/TOP%20STACK-React%20%7C%20Django-2563eb?style=for-the-badge" alt="top stack" />
   <img src="https://img.shields.io/badge/PRIMARY-Python%20%7C%20JavaScript-f59e0b?style=for-the-badge" alt="primary" />
