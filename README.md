@@ -1,160 +1,98 @@
-<!-- HEADER SECTION: Typing Animation -->
+<!-- README.md for Muhammed Shibil - GitHub Profile -->
 
-<div align="center">
-<img src="https://www.google.com/search?q=https://readme-typing-svg.demolab.com%3Ffont%3DFira%2BCode%26weight%3D600%26size%3D28%26pause%3D1000%26color%3D2E9BF5%26center%3Dtrue%26vCenter%3Dtrue%26width%3D435%26lines%3DHello,%2BI%27m%2BMuhammed%2BShibil%3BFull%2BStack%2BDeveloper%3B(Python%2B%257C%2BDjango%2B%257C%2BReact)%3BBuilding%2BScalable%2BSolutions" alt="Typing SVG" />
-
-<p align="center">
-<b> 📍 Kerala, India </b>
+<h1 align="left">Muhammed Shibil</h1>
+<p align="left">
+  <strong>Full-Stack Developer (React + Django)</strong> 🚀<br/>
+  Kerala, India • Open to backend & full-stack roles
 </p>
-</div>
 
-<!-- INTRO & PYTHON BIO DASHBOARD -->
+<!-- Badges -->
+<p align="left">
+  <img src="https://img.shields.io/badge/Status-Open%20for%20work-green?style=for-the-badge" alt="Open for work" />
+  <img src="https://img.shields.io/badge/Top%20Stack-React--Django-blue?style=for-the-badge" alt="Stack" />
+  <img src="https://img.shields.io/badge/Tech-JavaScript%20%7C%20Python%20%7C%20HTML--CSS-orange?style=for-the-badge" alt="Tech" />
+</p>
 
-<table border="0" width="100%">
-<tr>
-<td width="55%" valign="top">
-<h2>👨‍💻 About Me</h2>
+---
+
+## 👨‍💻 About
+Full-stack developer specializing in **React.js** on the front end and **Python / Django** on the backend. I build responsive, user-friendly and scalable web applications with clean architecture and optimized performance. Experienced with PostgreSQL, REST APIs, deployment, and modern UI tooling. Passionate about continuous learning and solving real-world problems.  
+*(Resume source: see bottom)*
+
+---
+
+## 🛠 Languages & Tools
 <p>
-I am a <b>Full Stack Developer</b> passionate about building responsive, user-friendly, and scalable web applications. I specialize in the <b>React.js</b> ecosystem for front-end and <b>Python/Django</b> for robust back-end architecture.
-</p>
-<p>
-Currently, I am working as a <b>Python Full-Stack Developer Intern</b> at <b>Bridgeon Solutions LLP</b>, bridging the gap between complex requirements and clean code.
-</p>
-<p>
-🌱 I’m currently learning <b>Advanced REST API patterns & AWS Deployment</b>.
-</p>
-</td>
-<td width="45%" valign="top">
-
-class MuhammedShibil:
-    def __init__(self):
-        self.role = "Full Stack Developer"
-        self.language = ["JavaScript (ES6+)", "Python"]
-        self.frameworks = ["Django", "React.js", "Redux"]
-        self.database = ["PostgreSQL", "SQLite"]
-        self.location = "Kerala, India"
-        
-    def current_status(self):
-        return "Building scalable apps & Learning"
-
-
-</td>
-
-
-</tr>
-</table>
-
-<!-- TECH STACK SECTION -->
-
-<h2 align="center">🛠️ Technical Arsenal</h2>
-<div align="center">
-
-Frontend
-
-Backend & Database
-
-Tools & Deployment
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-</div>
-
-<!-- FEATURED PROJECTS SECTION -->
-
-<h2>🚀 Featured Projects</h2>
-
-Project
-
-Description & Key Features
-
-Tech Stack
-
-Student LMS (SLMS)
-
-A comprehensive platform for managing students, mentors, and academic progress. 
-
-
-
-✅ Features: Mentor Approval Workflow, Bulk Semester Updates, Custom User Models.
-
-
-
-Hospital Mgmt System
-
-Operations platform for doctors, departments, and appointments. 
-
-
-
-✅ Features: Doctor Feedback System, Admin Dashboard, Patient Interactions.
-
-
-
-Bassify (E-commerce)
-
-React-based e-commerce app for audio devices. 
-
-
-
-✅ Features: Product Listing, Cart/Checkout, Admin Panel, User Blocking, JSON Server Backend.
-
-
-
-<!-- STATS SECTION -->
-
-<div align="center">
-<!-- NOTE: Replace YOUR_GITHUB_USERNAME with your actual GitHub username below -->
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3DYOUR_GITHUB_USERNAME%26show_icons%3Dtrue%26theme%3Dtokyonight%26hide_border%3Dtrue%26bg_color%3D0d1117" height="160" alt="stats graph" />
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3DYOUR_GITHUB_USERNAME%26layout%3Dcompact%26theme%3Dtokyonight%26hide_border%3Dtrue%26bg_color%3D0d1117" height="160" alt="languages graph" />
-</div>
-
-<!-- FOOTER / CONNECT -->
-
-<h3 align="center">📫 Let's Connect</h3>
-<p align="center">
-<a href="mailto:muhammedshibil.dev@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-<!-- NOTE: Replace YOUR_LINKEDIN_USERNAME with your actual LinkedIn ID below -->
-<a href="https://www.google.com/search?q=https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<!-- NOTE: Replace YOUR_GITHUB_USERNAME with your actual GitHub username below -->
-<a href="https://www.google.com/search?q=https://github.com/YOUR_GITHUB_USERNAME" target="_blank">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/GitHub-100000%3Fstyle%3Dfor-the-badge%26logo%3Dgithub%26logoColor%3Dwhite" />
-</a>
+  <img alt="React" src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white&style=flat-square" /> 
+  <img alt="Django" src="https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white&style=flat-square" />
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat-square" />
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square" />
+  <img alt="Tailwind" src="https://img.shields.io/badge/TailwindCSS-06B6D4?logo=tailwind-css&logoColor=white&style=flat-square" />
+  <img alt="Postgres" src="https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white&style=flat-square" />
+  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=flat-square" />
+  <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=flat-square" />
 </p>
 
-<!-- 3D ACTIVITY GRAPH -->
+---
 
-<div align="center">
-<!-- NOTE: Replace YOUR_GITHUB_USERNAME with your actual GitHub username below -->
-<img src="https://www.google.com/search?q=https://github-profile-trophy.vercel.app/%3Fusername%3DYOUR_GITHUB_USERNAME%26theme%3Dgruvbox%26no-frame%3Dtrue%26no-bg%3Dtrue%26margin-w%3D4" />
-</div>
+## 📈 GitHub Stats
+<!-- Replace `muhammedshibil` below with your GitHub username if different -->
+<p align="left">
+  <img align="left" alt="Muhammed's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=muhammedshibil&show_icons=true&theme=tokyonight" />
+  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammedshibil&layout=compact&theme=tokyonight" />
+</p>
+<br clear="both" />
+
+---
+
+## 🚀 Latest Projects
+### Bassify — React E-commerce (Audio)
+- React front-end with product listing, cart, admin panel.
+- JSON Server used to simulate backend; user blocking & product management implemented.
+- Responsive UI and state management for fluid UX.
+
+### Student Learning Management System (SLMS)
+- Django-based platform with separate Student & Mentor logins and custom user model.
+- Mentor approval workflow (accounts pending until mentor approves), automated emails.
+- Bulk semester update using `modelformset_factory`.
+- Tech: Django, Tailwind CSS, PostgreSQL.
+
+### Hospital Management System
+- Full-stack system for departments, doctors, appointments and patient feedback.
+- Admin dashboard for managing doctors, departments, and appointments.
+- Deployed to PythonAnywhere.
+
+---
+
+## 💼 Experience
+**Python Full-Stack Developer (Intern)** — Bridgeon Solutions LLP  
+- Built full-stack features, integrated REST APIs, helped deploy and maintain environments.  
+Dates: listed on resume.
+
+---
+
+## 🎓 Education
+**Bachelor of Commerce** — Fathima Arts and Science College, Calicut University
+
+---
+
+## 🗣 Languages
+English • Malayalam • Tamil
+
+---
+
+## 📫 Contact
+- ✉️ Email: muhammedshibil.dev@gmail.com  
+- 🔗 LinkedIn: _add your LinkedIn URL here_  
+- 👤 GitHub: https://github.com/muhammedshibil
+
+---
+
+## 🔖 Notes & Tips
+- To show dynamic GitHub stats on your profile, create a repo named the same as your GitHub username and paste this `README.md`.
+- Replace `muhammedshibil` in the GitHub stats image URLs with your actual GitHub username if different.
+- Add direct links to live projects (Netlify, Vercel, deployed URLs) next to each project for best effect.
+
+---
+
+**Resume (source):** :contentReference[oaicite:0]{index=0}
