@@ -89,7 +89,7 @@ Worked on full-stack features, REST API integration, deployments, and app mainte
 ## ✨ Fancy / small animation (optional)
 If you want a subtle animated banner, uncomment one of these lines in the README:
 
-```md
+
 <!-- Animated gradient banner -->
 <img src="https://raw.githubusercontent.com/Anuraghazra/Anuraghazra/main/banner.gif" alt="banner" />
 
