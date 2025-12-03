@@ -78,21 +78,21 @@ Kerala, India • Building responsive, user-focused web apps
 
 <!-- GitHub Stats Section -->
 
-<h2 align="center">📊 GitHub Stats</h2>
-<div align="center">
+<!-- <h2 align="center">📊 GitHub Stats</h2>
+<div align="center"> -->
 
 
 
 
 
 <!-- Stats Card -->
-<a href="https://github.com/muhammedshibil">
+<!-- <a href="https://github.com/muhammedshibil">
 <img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3Dmuhammedshibil%26show_icons%3Dtrue%26theme%3Dtokyonight%26hide_border%3Dtrue%26bg_color%3D00000000" alt="Muhammed Shibil's GitHub stats" height="160" />
-</a>
+</a> -->
 <!-- Top Languages Card -->
-<a href="https://github.com/muhammedshibil">
+<!-- <a href="https://github.com/muhammedshibil">
 <img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3Dmuhammedshibil%26layout%3Dcompact%26theme%3Dtokyonight%26hide_border%3Dtrue%26bg_color%3D00000000" alt="Top Languages" height="160" />
-</a>
+</a> -->
 
 
 
@@ -101,5 +101,5 @@ Kerala, India • Building responsive, user-focused web apps
 
 
 <!-- Profile Views Counter -->
-<img src="https://www.google.com/search?q=https://komarev.com/ghpvc/%3Fusername%3Dmuhammedshibil%26color%3Dblueviolet%26style%3Dfor-the-badge%26label%3DPROFILE%2BVIEWS" alt="Profile Views" />
-</div>
+<!-- <img src="https://www.google.com/search?q=https://komarev.com/ghpvc/%3Fusername%3Dmuhammedshibil%26color%3Dblueviolet%26style%3Dfor-the-badge%26label%3DPROFILE%2BVIEWS" alt="Profile Views" />
+</div> -->
