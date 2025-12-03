@@ -23,7 +23,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=FFFFFF&width=600&lines=Full-Stack+Developer+(React+%2B+Django);Building+responsive+web+applications;APIs+%26+Deployments" alt="typing" />
 </p>
 
-<hr />
+
 
 <h3>👨‍💻 About</h3>
 <p>Full-stack developer focused on <strong>React.js</strong> frontend and <strong>Django (Python)</strong> backend. I build responsive, maintainable web apps and REST APIs, and deploy projects to hosting platforms. I enjoy turning ideas into clean code and improving UX with practical UI patterns.</p>
