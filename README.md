@@ -50,24 +50,4 @@
 
 <hr />
 
-<h3>📈 GitHub Stats</h3>
-<!-- Make sure repo name = GitHub username for profile README to show -->
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=muhammedshibil&show_icons=true&theme=tokyonight" alt="Muhammed's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammedshibil&layout=compact&theme=tokyonight" alt="Top Languages" style="margin-left:16px"/>
-</p>
-<br clear="both" />
 
-    </td>
-
-    <td valign="top" width="35%" align="center">
-      <!-- Right-side GIF / image (common style used in many repos) -->
-      <img src="https://media.giphy.com/media/3o7TKtdvE3b7t1k1Ck/giphy.gif" alt="coding gif" width="320" style="border-radius:8px;box-shadow:0 6px 18px rgba(0,0,0,0.5)" />
-      <p style="font-size:12px;color:#9aa0a6;margin-top:10px">Coding • Building • Shipping</p>
-    </td>
-  </tr>
-</table>
-
----
-
-**Resume (source of selected details):** :contentReference[oaicite:0]{index=0}
